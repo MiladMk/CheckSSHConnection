@@ -3,5 +3,5 @@
 ### ★ Installation
 
 ``` 
-sudo wget https://raw.githubusercontent.com/MiladMk/CheckSSHConnection/main/CheckSSHConnection.sh && sudo chmod 700 CheckSSHConnection.sh  && sudo ./CheckSSHConnection.sh
+sudo wget https://raw.githubusercontent.com/MiladMk/CheckSSHConnection/main/CheckSSHConnection.sh &&  apt install sshpass -y && sudo chmod 700 CheckSSHConnection.sh  && sudo ./CheckSSHConnection.sh
  ```
